@@ -30,7 +30,7 @@ Version: $REVISION
 Architecture: $ARCH
 Maintainer: $MAINTAINER <$MAINTAINERMAIL>
 Installed-Size: 1
-Depends:  libgd2-xpm-dev (>= 2.0.36), libjpeg-dev, libpng-dev, libfreetype6-dev (>= 2.49), libgd-dev
+Depends:  libgd2-xpm-dev, libjpeg-dev, libpng-dev, libfreetype6-dev, libgd-dev
 Section: utils
 Priority: optional
 Description: fswebcam https://github.com/avafinger/fswebcam
